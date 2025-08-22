@@ -2,7 +2,7 @@
   "name": "finalproject",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://danny23-hossam.github.io/finalproject",
+  "homepage": "https://danny23-hossam.github.io/ReactCalculator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
