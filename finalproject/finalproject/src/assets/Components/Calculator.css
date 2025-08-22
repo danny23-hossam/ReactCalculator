@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.outdiv{
+
+  position: relative;
+   
+    top: 20vh;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    height: 300px;
+
+   
+}
+.divboard{
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+.items{
+    margin-top: 10px;
+}
+.buttons{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr  ;
+    gap :50px;
+    grid-template-rows: 1fr 1fr;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+.btn1{
+    text-align: center;
+}
+.p1{
+    position: relative;
+    left: 20px;
+}
+
+
+.board{
+    margin-left: 20px;
+   
+    
+}
